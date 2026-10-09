@@ -1,0 +1,14 @@
+C:\Users\PL77622\source\repos\GitConsoleApp\bin\Debug\net8.0\GitConsoleApp.exe
+C:\Users\PL77622\source\repos\GitConsoleApp\bin\Debug\net8.0\GitConsoleApp.deps.json
+C:\Users\PL77622\source\repos\GitConsoleApp\bin\Debug\net8.0\GitConsoleApp.runtimeconfig.json
+C:\Users\PL77622\source\repos\GitConsoleApp\bin\Debug\net8.0\GitConsoleApp.dll
+C:\Users\PL77622\source\repos\GitConsoleApp\bin\Debug\net8.0\GitConsoleApp.pdb
+C:\Users\PL77622\source\repos\GitConsoleApp\obj\Debug\net8.0\GitConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PL77622\source\repos\GitConsoleApp\obj\Debug\net8.0\GitConsoleApp.AssemblyInfoInputs.cache
+C:\Users\PL77622\source\repos\GitConsoleApp\obj\Debug\net8.0\GitConsoleApp.AssemblyInfo.cs
+C:\Users\PL77622\source\repos\GitConsoleApp\obj\Debug\net8.0\GitConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\PL77622\source\repos\GitConsoleApp\obj\Debug\net8.0\GitConsoleApp.dll
+C:\Users\PL77622\source\repos\GitConsoleApp\obj\Debug\net8.0\refint\GitConsoleApp.dll
+C:\Users\PL77622\source\repos\GitConsoleApp\obj\Debug\net8.0\GitConsoleApp.pdb
+C:\Users\PL77622\source\repos\GitConsoleApp\obj\Debug\net8.0\GitConsoleApp.genruntimeconfig.cache
+C:\Users\PL77622\source\repos\GitConsoleApp\obj\Debug\net8.0\ref\GitConsoleApp.dll

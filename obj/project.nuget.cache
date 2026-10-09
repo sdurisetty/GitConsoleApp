@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UczbR/wumo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PL77622\\source\\repos\\GitConsoleApp\\GitConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PL77622\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
